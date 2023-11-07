@@ -1,0 +1,19 @@
+{
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.defaultFoldingRangeProvider": "ms-python.black-formatter",
+    "black-formatter.interpreter": [
+        "/home/kstoyanov/projects/catalog_test_app/app/venv/bin/python"
+    ],
+    "black-formatter.path": [
+        "/home/kstoyanov/projects/catalog_test_app/app/venv/bin/black"
+    ],
+    "flake8.path": [
+        "/home/kstoyanov/projects/catalog_test_app/app/venv/bin/flake8"
+    ],
+    "black-formatter.importStrategy": "fromEnvironment",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    // "flake8.args": ["--config=.flake8"],
+     
+}

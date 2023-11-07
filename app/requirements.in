@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg
+bcrypt
+pydantic
+pyjwt
+
+black
+flake8
+pip-tools
+mypy
